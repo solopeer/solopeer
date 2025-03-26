@@ -164,9 +164,8 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
         <p>Scaled developer communities from 500 to 1,500+ members in just 12 months</p>
       </td>
       <td align="center" width="50%">
-        <h1>85%</h1>
-        <p><b>Event Attendance</b></p>
-        <p>Maintained exceptional engagement rates across 25+ organized tech events</p>
+        <h3>🎯 Event Organization</h3>
+        <p>Creating engaging tech meetups, workshops, and conferences that bring developers together to learn and connect</p>
       </td>
     </tr>
     <tr>
