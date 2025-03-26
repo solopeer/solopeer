@@ -23,34 +23,33 @@
 ## 💫 About Me
 
 <div align="center">
+  <p>I'm a <b>Neighborhood Community Advocate</b> who brings people and technology together.</p>
+  <p>My passion is making tech accessible to everyone and building supportive communities where people can learn and grow.</p>
+</div>
+
+<div align="center">
   <table>
     <tr>
-      <td width="70%" valign="top">
-        <p>I'm a <b>Community Builder</b> and <b>DevRel Professional</b> with 5+ years of experience connecting technology with people. My work has directly impacted:</p>
-        <ul>
-          <li>🚀 <b>1,500+ developers</b> across multiple tech communities</li>
-          <li>🎯 <b>25+ successful tech events</b> with exceptional engagement rates</li>
-          <li>📊 <b>100K+ readers</b> through technical content and knowledge sharing</li>
-          <li>🌐 <b>10+ neighborhood initiatives</b> applying tech solutions to local challenges</li>
-        </ul>
-        <p>I specialize in translating complex technical concepts into accessible experiences that build bridges between developers, products, and communities.</p>
+      <td width="50%" valign="top" align="center">
+        <h3>🏘️ Community Building</h3>
+        <p>I create welcoming spaces where neighbors can connect, share ideas, and solve local challenges together using technology.</p>
       </td>
-      <td width="30%" valign="top" align="center">
-        <h3>Core Focus Areas</h3>
-        <p><b>🌱 Community Growth</b><br>Building sustainable developer ecosystems</p>
-        <p><b>🎤 Technical Advocacy</b><br>Empowering through knowledge sharing</p>
-        <p><b>� Program Management</b><br>Driving strategic community initiatives</p>
+      <td width="50%" valign="top" align="center">
+        <h3>🔍 Technology Advocacy</h3>
+        <p>I help explain tech concepts in simple ways so everyone can understand and benefit from digital tools in their daily lives.</p>
       </td>
     </tr>
   </table>
 </div>
 
-### Currently:
+### What I'm Doing Now:
 
-- 🔭 Leading **3 community-driven tech projects** with over 500 active participants
-- 🌱 Developing expertise in **AI-powered community engagement strategies**
-- 💬 Mentoring **5 aspiring community leaders** in developer relations
-- 👨‍💻 Explore my work at [my portfolio](https://linktr.ee/shrawansaproo)
+- 🏡 Working with local neighborhoods to build stronger communities
+- 🌱 Teaching basic tech skills to people of all ages
+- 💬 Hosting regular meetups where neighbors can share ideas
+- 👨‍💻 Creating simple guides to help people use technology in their daily lives
+- 🤝 Connecting people with resources they need in our community
+- 📱 Explore my community projects at [my portfolio](https://linktr.ee/shrawansaproo)
 
 ## 🛠️ Tech Stack
 
