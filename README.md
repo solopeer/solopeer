@@ -45,94 +45,79 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
 
 ## 🛠️ Tech Stack
 
-<details open>
-  <summary><b>☁️ Cloud & Infrastructure</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>� Community Platforms</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-    <img src="https://img.shields.io/badge/GitHub_Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Discussions" />
-    <img src="https://img.shields.io/badge/Discourse-000000?style=for-the-badge&logo=discourse&logoColor=white" alt="Discourse" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>📊 Analytics & Growth</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-    <img src="https://img.shields.io/badge/Mixpanel-9262FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel" />
-    <img src="https://img.shields.io/badge/Amplitude-0164FF?style=for-the-badge&logo=amplitude&logoColor=white" alt="Amplitude" />
-    <img src="https://img.shields.io/badge/Segment-52BD94?style=for-the-badge&logo=segment&logoColor=white" alt="Segment" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>� AI & Emerging Tech</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-    <img src="https://img.shields.io/badge/Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-    <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />
-    <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white" alt="LangChain" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🔄 CRM & Engagement</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-    <img src="https://img.shields.io/badge/Intercom-6AFDEF?style=for-the-badge&logo=intercom&logoColor=black" alt="Intercom" />
-    <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>📝 Collaboration & Productivity</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-    <img src="https://img.shields.io/badge/Asana-FC636B?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" />
-    <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable" />
-    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🎨 Content & Design</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-    <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>💻 Programming & Technical</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/APIs-0096FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
-    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-  </p>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🤝 Community</b></td>
+      <td align="center"><b>📊 Analytics</b></td>
+      <td align="center"><b>🤖 AI</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Discourse-000000?style=flat&logo=discourse&logoColor=white" alt="Discourse" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" alt="Google Analytics" />
+        <img src="https://img.shields.io/badge/Mixpanel-9262FF?style=flat&logo=mixpanel&logoColor=white" alt="Mixpanel" />
+        <img src="https://img.shields.io/badge/Amplitude-0164FF?style=flat&logo=amplitude&logoColor=white" alt="Amplitude" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
+        <img src="https://img.shields.io/badge/Claude-5A67D8?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
+        <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>💼 CRM</b></td>
+      <td align="center"><b>📝 Productivity</b></td>
+      <td align="center"><b>🎨 Design</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" alt="HubSpot" />
+        <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce" />
+        <img src="https://img.shields.io/badge/Intercom-6AFDEF?style=flat&logo=intercom&logoColor=black" alt="Intercom" />
+        <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
+        <img src="https://img.shields.io/badge/Asana-FC636B?style=flat&logo=asana&logoColor=white" alt="Asana" />
+        <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white" alt="Airtable" />
+        <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white" alt="Miro" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>☁️ Cloud</b></td>
+      <td align="center"><b>💻 Programming</b></td>
+      <td align="center"><b>🔄 Integration</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" />
+        <img src="https://img.shields.io/badge/APIs-0096FF?style=flat&logo=fastapi&logoColor=white" alt="APIs" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Activity
 
