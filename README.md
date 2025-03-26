@@ -153,12 +153,38 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
   </table>
 </div>
 
-### 📈 Impact Metrics
+## 📈 Impact By The Numbers
 
-- **Community Growth**: Increased membership by 200% in 12 months
-- **Event Engagement**: Average attendance rate of 85% across all organized events
-- **Knowledge Sharing**: Published 30+ technical articles with 100K+ total views
-- **Mentorship**: Guided 50+ individuals in their tech career journeys
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h1>200%</h1>
+        <p><b>Community Growth</b></p>
+        <p>Scaled developer communities from 500 to 1,500+ members in just 12 months</p>
+      </td>
+      <td align="center" width="25%">
+        <h1>85%</h1>
+        <p><b>Event Attendance</b></p>
+        <p>Maintained exceptional engagement rates across 25+ organized tech events</p>
+      </td>
+      <td align="center" width="25%">
+        <h1>100K+</h1>
+        <p><b>Content Reach</b></p>
+        <p>Technical articles and tutorials viewed by developers worldwide</p>
+      </td>
+      <td align="center" width="25%">
+        <h1>50+</h1>
+        <p><b>Careers Impacted</b></p>
+        <p>Mentored individuals who went on to roles at top tech companies</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <i>"Building bridges between technology and people, one community at a time."</i>
+</div>
 
 ## 🌐 Let's Connect
 
