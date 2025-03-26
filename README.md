@@ -159,9 +159,8 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
   <table>
     <tr>
       <td align="center" width="50%">
-        <h1>200%</h1>
-        <p><b>Community Growth</b></p>
-        <p>Scaled developer communities from 500 to 1,500+ members in just 12 months</p>
+        <h3>🚀 Community Building</h3>
+        <p>Growing and nurturing developer communities where members can connect, collaborate, and thrive together</p>
       </td>
       <td align="center" width="50%">
         <h3>🎯 Event Organization</h3>
