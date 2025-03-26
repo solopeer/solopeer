@@ -153,30 +153,30 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
   </table>
 </div>
 
-## 📈 Impact By The Numbers
+## 📈 Impact & Contributions
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h1>200%</h1>
         <p><b>Community Growth</b></p>
         <p>Scaled developer communities from 500 to 1,500+ members in just 12 months</p>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="50%">
         <h1>85%</h1>
         <p><b>Event Attendance</b></p>
         <p>Maintained exceptional engagement rates across 25+ organized tech events</p>
       </td>
-      <td align="center" width="25%">
-        <h1>100K+</h1>
-        <p><b>Content Reach</b></p>
-        <p>Technical articles and tutorials viewed by developers worldwide</p>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🌟 Knowledge Sharing</h3>
+        <p>Creating accessible technical content that empowers developers of all skill levels to grow and succeed</p>
       </td>
-      <td align="center" width="25%">
-        <h1>50+</h1>
-        <p><b>Careers Impacted</b></p>
-        <p>Mentored individuals who went on to roles at top tech companies</p>
+      <td align="center" width="50%">
+        <h3>🤝 Mentorship</h3>
+        <p>Guiding aspiring tech professionals through challenges and helping them reach their career goals</p>
       </td>
     </tr>
   </table>
