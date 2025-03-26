@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Shrawan+Saproo+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=36&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+Shrawan+Saproo+👋;Travel+Enthusiast+%26+Community+Builder;Exploring+the+world%2C+connecting+people!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p><strong>✨ Community Builder | 🚀 DevRel | 📊 Program Manager ✨</strong></p>
+  <p><strong>✈️ World Explorer | 🌍 Community Connector | � Travel Storyteller ✨</strong></p>
 </div>
 
 <div align="center">
