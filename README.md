@@ -54,20 +54,20 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Discourse-000000?style=flat&logo=discourse&logoColor=white" alt="Discourse" />
+        <a href="https://discord.com/developers/docs"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="https://api.slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" /></a>
+        <a href="https://github.com/features/discussions"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://www.discourse.org/"><img src="https://img.shields.io/badge/Discourse-000000?style=flat&logo=discourse&logoColor=white" alt="Discourse" /></a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-        <img src="https://img.shields.io/badge/Mixpanel-9262FF?style=flat&logo=mixpanel&logoColor=white" alt="Mixpanel" />
-        <img src="https://img.shields.io/badge/Amplitude-0164FF?style=flat&logo=amplitude&logoColor=white" alt="Amplitude" />
+        <a href="https://analytics.google.com/"><img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" alt="Google Analytics" /></a>
+        <a href="https://mixpanel.com/"><img src="https://img.shields.io/badge/Mixpanel-9262FF?style=flat&logo=mixpanel&logoColor=white" alt="Mixpanel" /></a>
+        <a href="https://amplitude.com/"><img src="https://img.shields.io/badge/Amplitude-0164FF?style=flat&logo=amplitude&logoColor=white" alt="Amplitude" /></a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
-        <img src="https://img.shields.io/badge/Claude-5A67D8?style=flat&logo=anthropic&logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+        <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white" alt="ChatGPT" /></a>
+        <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-5A67D8?style=flat&logo=anthropic&logoColor=white" alt="Claude" /></a>
+        <a href="https://platform.openai.com/docs/api-reference"><img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" /></a>
       </td>
     </tr>
     <tr>
@@ -77,21 +77,21 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" alt="HubSpot" />
-        <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce" />
-        <img src="https://img.shields.io/badge/Intercom-6AFDEF?style=flat&logo=intercom&logoColor=black" alt="Intercom" />
-        <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+        <a href="https://www.hubspot.com/"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" alt="HubSpot" /></a>
+        <a href="https://www.salesforce.com/"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
+        <a href="https://www.intercom.com/"><img src="https://img.shields.io/badge/Intercom-6AFDEF?style=flat&logo=intercom&logoColor=black" alt="Intercom" /></a>
+        <a href="https://mailchimp.com/"><img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black" alt="Mailchimp" /></a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
-        <img src="https://img.shields.io/badge/Asana-FC636B?style=flat&logo=asana&logoColor=white" alt="Asana" />
-        <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white" alt="Airtable" />
-        <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white" alt="Miro" />
+        <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" /></a>
+        <a href="https://asana.com/"><img src="https://img.shields.io/badge/Asana-FC636B?style=flat&logo=asana&logoColor=white" alt="Asana" /></a>
+        <a href="https://airtable.com/"><img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white" alt="Airtable" /></a>
+        <a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white" alt="Miro" /></a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
+        <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
+        <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" /></a>
+        <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" /></a>
       </td>
     </tr>
     <tr>
@@ -101,19 +101,19 @@ My work extends beyond the digital realm into neighborhood initiatives, where I 
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+        <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+        <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" /></a>
+        <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /></a>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" />
-        <img src="https://img.shields.io/badge/APIs-0096FF?style=flat&logo=fastapi&logoColor=white" alt="APIs" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+        <a href="https://zapier.com/"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" /></a>
+        <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/APIs-0096FF?style=flat&logo=fastapi&logoColor=white" alt="APIs" /></a>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
       </td>
     </tr>
   </table>
